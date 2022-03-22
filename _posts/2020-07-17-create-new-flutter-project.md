@@ -2,14 +2,14 @@
 title: Create New Flutter Project is not showing on Android Studio wizard
 author: João F. F. Nogueira
 date: 2020-07-17 11:14:00 -0300
-categories: [English, Troubleshoot]
-tags: [android, flutter]
+categories: [Flutter, IDE]
+tags: [android, android-studio, troubleshoot]
 toc: false
 ---
 
-Usually, the problem is that `Android APK Support` plugin is disable and enabling it should resolve the problem.
+Usually, the problem is that `Android APK Support` plugin is disabled and enabling it should resolve the problem.
 
-   ![android-studio-print](/posts/2021-06-11-01.png){: width="400" height="398" }
+   ![android-studio-print](/posts/2021-06-11-01.png){: max-width="100%" height="auto" }
 _Android Studio wizard print, with "Create New Flutter Project" option highlighted._
 
 Try this:

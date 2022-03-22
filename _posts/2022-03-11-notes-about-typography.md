@@ -2,8 +2,8 @@
 title: Notes about Typography
 author: João F. F. Nogueira
 date: 2022-03-11 08:00:00 -0300
-categories: [English, Studies]
-tags: [design]
+categories: [Design]
+tags: [typography]
 toc: true
 ---
 
@@ -17,7 +17,7 @@ IDEOGRAM: A graphic element that represents an idea or a concept.
 
 ICON: A graphic element that represents an object, person or something else.
 
-SYMBOL: A graphic element that communicates the ideas and concepts that it represents rather than denoting what it actually is.
+SYMBOL: A graphic element that communicates the ideas and concepts that it represents, rather than denoting what it actually is.
 
 PICTOGRAM: A graphic element that describes an action or series of actions through visual references or clues.
 
@@ -27,7 +27,7 @@ What is a font?: A font is the physical means used to create a typeface, whether
 
 What is a typeface?: A typeface is a collection of characters, letters, numerals, symbols and punctuation, which have the same distinct design. 
 
-Standard typefaces generally fall into one of two broad categories: serif or sans serif. A serif typeface is one that has small cross lines at the ends of the different strokes, while a sans serif does not have these. These lines, often barely noticeable, aid our ability to recognize characters and help us to read by leading the eye across the page. For this reason, serif typefaces are generally easier to read than sans serifs. The clean lines of sans serif typefaces are seen as being modern, while serifs are more traditional.
+Standard typefaces generally fall into one of two broad categories: serif or sans serif. A serif typeface is one that has small cross lines at the ends of the different strokes, while a sans serif does not have these. These lines, often barely noticeable, aid our ability to recognize characters and help us to read by leading the eye across the page. For this reason, serif typefaces are typically easier to read than sans serifs. The clean lines of sans serif typefaces are seen as being modern, while serifs are more traditional.
 
 ![Typeface anatomy](/posts/2022-03-11-1.png){: max-width="100%" height="auto" }
 
@@ -35,7 +35,7 @@ Standard typefaces generally fall into one of two broad categories: serif or san
 
 Letterforms are the basic alphabetic and numeric characters that communicate within a design, and can be styled in many different ways.
 
-Roman: The basic cut of a typeface, so called due to its origins in the inscriptions found on Roman monuments. Roman is sometimes referred to as book, although book is often a slightly lighter version of the Roman.
+Roman: The basic cut of a typeface, so-called due to its origins in the inscriptions found on Roman monuments. Roman is sometimes referred to as book, although book is often a slightly lighter version of the Roman.
 
 Italic: A true italic is a drawn typeface based around an angled axis. These are normally designed for serif typefaces. Obliques are slanted versions of sans-serif typefaces rather than a newly drawn version.
 
@@ -45,7 +45,7 @@ Boldface: Bold, boldface, medium, semibold, black, super or poster all refer to 
 
 Condensed and extended: Many type families include condensed and extended versions that provide additional typesetting flexibility. Condensed types are narrower than the Roman cut and are useful for tight space situations. Extended types are wider versions of the Roman type and are often used for headlines to dramatically fill a space. Both of these versions are often available in weight variations, from light through to black.
 
-Serifs are a key characteristic for identifying a typeface – they can be employed in a variety of ways. Serifs are often said to enhance the readability of a piece of text by helping the eye to advance from one character to the next. Many serif styles reflect the zeitgeist of a particular time, with some more ornate or more bold, and others more discreet or more refined.
+Serifs are a key characteristic for identifying a typeface – they can be employed in a variety of ways. Serifs are frequently said to enhance the readability of a piece of text by helping the eye to advance from one character to the next. Many serif styles reflect the zeitgeist of a particular time, with some more ornate or more bold, and others more discreet or more refined.
 
 ## Words and paragraphs
 
@@ -53,9 +53,9 @@ Type size affects white space.
 
 Flush left, ragged right: This alignment follows the principle of handwriting, with text tight and aligned to the left margin and ending ragged on the right.
 
-Centred: Centred aligns each line horizontally in the centre to form a symmetrical shape on the page, with line beginnings and endings ragged. Raggedness can be controlled to a certain extent by adjusting line endings.
+Centered: Centered aligns each line horizontally in the center to form a symmetrical shape on the page, with line beginnings and endings ragged. Raggedness can be controlled to a certain extent by adjusting line endings.
 
-Flush right,ragged left: Right aligning text is less common as it is more difficult to read. It is sometimes used for picture captions and other accompanying texts as it is clearly distinct from body copy.
+Flush right, ragged left: Right aligning text is less common as it is more difficult to read. It is sometimes used for picture captions and other accompanying texts as it is clearly distinct from body copy.
 
 Justified horizontally: Justified text allows the appearance of rivers of white space to appear. It can cause plagues of hyphenation if words are allowed to split to prevent this.
 
