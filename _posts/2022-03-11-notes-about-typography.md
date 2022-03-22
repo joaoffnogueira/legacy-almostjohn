@@ -29,7 +29,7 @@ What is a typeface?: A typeface is a collection of characters, letters, numerals
 
 Standard typefaces generally fall into one of two broad categories: serif or sans serif. A serif typeface is one that has small cross lines at the ends of the different strokes, while a sans serif does not have these. These lines, often barely noticeable, aid our ability to recognize characters and help us to read by leading the eye across the page. For this reason, serif typefaces are generally easier to read than sans serifs. The clean lines of sans serif typefaces are seen as being modern, while serifs are more traditional.
 
-![Typeface anatomy](/posts/2022-03-11-1.png){: width="50vh" height="50vh" }
+![Typeface anatomy](/posts/2022-03-11-1.png){: max-width="100%" height="auto" }
 
 ## Letterforms
 
