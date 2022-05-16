@@ -1,9 +1,9 @@
 ---
 title: Notes about Typography
 author: João F. F. Nogueira
-date: 2022-03-11 08:00:00 -0300
-categories: [Design]
-tags: [typography]
+date: 2022-05-16 08:00:00 -0300
+categories: [UI, Typography]
+tags: [design, typography, ui]
 toc: true
 ---
 
@@ -23,17 +23,17 @@ PICTOGRAM: A graphic element that describes an action or series of actions throu
 
 ## A few basics
 
-What is a font?: A font is the physical means used to create a typeface, whether it be a typewriter, a stencil, letterpress blocks or a piece of PostScript code.
+A font is the physical means used to create a typeface, whether it be a typewriter, a stencil, letterpress blocks or a piece of PostScript code.
 
-What is a typeface?: A typeface is a collection of characters, letters, numerals, symbols and punctuation, which have the same distinct design. 
+A typeface is a collection of characters, letters, numerals, symbols and punctuation, which have the same distinct design.
 
 Standard typefaces generally fall into one of two broad categories: serif or sans serif. A serif typeface is one that has small cross lines at the ends of the different strokes, while a sans serif does not have these. These lines, often barely noticeable, aid our ability to recognize characters and help us to read by leading the eye across the page. For this reason, serif typefaces are typically easier to read than sans serifs. The clean lines of sans serif typefaces are seen as being modern, while serifs are more traditional.
 
 ![Typeface anatomy](/posts/2022-03-11-1.png){: max-width="100%" height="auto" }
 
-## Letterforms
+## Letter forms
 
-Letterforms are the basic alphabetic and numeric characters that communicate within a design, and can be styled in many different ways.
+Letter forms are the basic alphabetic and numeric characters that communicate within a design, and can be styled in many ways.
 
 Roman: The basic cut of a typeface, so-called due to its origins in the inscriptions found on Roman monuments. Roman is sometimes referred to as book, although book is often a slightly lighter version of the Roman.
 
@@ -55,7 +55,7 @@ Flush left, ragged right: This alignment follows the principle of handwriting, w
 
 Centered: Centered aligns each line horizontally in the center to form a symmetrical shape on the page, with line beginnings and endings ragged. Raggedness can be controlled to a certain extent by adjusting line endings.
 
-Flush right, ragged left: Right aligning text is less common as it is more difficult to read. It is sometimes used for picture captions and other accompanying texts as it is clearly distinct from body copy.
+Flush right, ragged left: Right aligning text is less common as it is more difficult to read. It is sometimes used for picture captions and other accompanying texts, as it is clearly distinct from body copy.
 
 Justified horizontally: Justified text allows the appearance of rivers of white space to appear. It can cause plagues of hyphenation if words are allowed to split to prevent this.
 
@@ -65,6 +65,6 @@ The use of word spacing, hyphenation and justification functions allows for grea
 
 Arguably one of the most important aspects when considering typography is adding a sense of hierarchy. Hierarchy is a logical and visual way to express the relative importance of different text elements by providing a visual guide to their organization. A text hierarchy helps make a layout clear, unambiguous and easier to digest.
 
-Colour can be used to provide a logical, visual hierarchy for text, in addition to providing definition, contrast and added meaning to text elements.
+Color can be used to provide a logical, visual hierarchy for text, in addition to providing definition, contrast and added meaning to text elements.
 
 The use of type on screen shares many of the requirements and concerns of type on a printed page. The same thought patterns govern the use of layout and the font choices made, but the end result is a little less controllable.
