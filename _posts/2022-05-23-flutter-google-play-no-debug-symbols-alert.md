@@ -1,9 +1,9 @@
 ---
 title: Launch Flutter app on Google Play - no debug symbols alert
 author: João F. F. Nogueira
-date: 2021-12-31 08:00:00 -0300
-categories: [English, Troubleshoot]
-tags: [android, flutter]
+date: 2022-05-23 08:00:00 -0300
+categories: [Flutter, Android]
+tags: [android, google-play]
 toc: false
 ---
 
@@ -18,5 +18,7 @@ Go to `[your project]\build\app\intermediates\merged_native_libs\release\out\lib
 Select folders `arm64-v8a`, `armeabi-v7a`, `x86_64` and compress them into a zip file.
 
 Upload this zip file as a debug symbol file, this option will be bundled with the package you included as an app bundle on Google Play.
+
+![Indication: Debug Symbols File](/posts/2022-05-23.jpeg){: max-width="100%" height="auto" }
 
 With that, the alert will disappear!
