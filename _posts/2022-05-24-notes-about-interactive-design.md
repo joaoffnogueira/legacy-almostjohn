@@ -1,9 +1,9 @@
 ---
 title: Notes about Interactive Design
 author: João F. F. Nogueira
-date: 2022-02-25 08:00:00 -0300
-categories: [English, Studies]
-tags: [design]
+date: 2022-05-24 08:00:00 -0300
+categories: [UI, Design]
+tags: [design, interactive, ui, ux]
 toc: true
 ---
 
