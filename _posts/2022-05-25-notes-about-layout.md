@@ -1,9 +1,9 @@
 ---
 title: Notes about Layout
 author: João F. F. Nogueira
-date: 2022-02-18 08:00:00 -0300
-categories: [English, Studies]
-tags: [design]
+date: 2022-05-25 08:00:00 -0300
+categories: [UI, Layout]
+tags: [design, layout, ui]
 toc: true
 ---
 

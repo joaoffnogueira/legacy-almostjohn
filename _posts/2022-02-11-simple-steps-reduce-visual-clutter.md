@@ -1,9 +1,9 @@
 ---
-title: Simple steps to reduce Visual Clutter
+title: Simple steps to reduce visual clutter
 author: João F. F. Nogueira
 date: 2022-02-11 08:00:00 -0300
-categories: [English, Studies]
-tags: [design]
+categories: [UI, Design]
+tags: [design, ui]
 toc: false
 ---
 

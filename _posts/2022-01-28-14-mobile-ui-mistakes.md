@@ -2,8 +2,8 @@
 title: 14 mobile UI mistakes to avoid at all costs
 author: João F. F. Nogueira
 date: 2022-01-28 08:00:00 -0300
-categories: [English, Studies]
-tags: [design, mobile]
+categories: [UI, Design]
+tags: [design, mobile, ui]
 toc: false
 ---
 

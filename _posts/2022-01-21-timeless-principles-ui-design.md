@@ -2,8 +2,8 @@
 title: Timeless Principles of UI Design
 author: João F. F. Nogueira
 date: 2022-01-21 08:00:00 -0300
-categories: [English, Studies]
-tags: [design]
+categories: [UI, Design]
+tags: [design, ui]
 toc: false
 ---
 

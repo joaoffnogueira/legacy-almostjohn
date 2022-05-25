@@ -2,8 +2,8 @@
 title: Give good mobile
 author: João F. F. Nogueira
 date: 2022-02-04 08:00:00 -0300
-categories: [English, Studies]
-tags: [design, mobile]
+categories: [UI, Design]
+tags: [design, mobile, ui]
 toc: false
 ---
 
@@ -21,7 +21,7 @@ Anticipate the user’s questions — and answer them.
 
 ## COGNITIVE LOAD - DON’T MAKE ME WORK!
 
-Apply interactive behaviors consistently. 
+Apply interactive behaviors consistently.
 
 Design interactive controls consistently throughout your app.
 
@@ -33,7 +33,7 @@ Create visual hierarchy through size, visual weight and balance.
 
 Use alignment to create order and communicate relationships between elements.
 
-Text size should be a minimum of 20 pixels. 
+Text size should be a minimum of 20 pixels.
 
 Touch targets should be at least 48 x 48 pixels.
 
